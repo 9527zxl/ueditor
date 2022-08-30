@@ -1,0 +1,5 @@
+# 参数是String[]，可以指定多个
+spring:
+  web:
+    resources:
+      static-locations: classpath:/templates/,classpath:/static/
